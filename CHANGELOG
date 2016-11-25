@@ -1,0 +1,28 @@
+1.3.4
+- [FIX] Fixed ordering of catalog items by priority. [APPSIST-297]
+
+1.3.3
+- [FIX] Fixed activity toString() method.
+
+1.3.2
+- Action is now optional in SiteOverview.Station.
+
+1.3.1 -- 2016-06-16
+- Remove output to stdout.
+
+1.3.0 -- 2016-04-01
+- Added all titles of the process tree to assistance steps.
+- Added action to perform when a station is selected on the site overview.
+
+1.2.0 -- 2016-02-29
+- Added method to retrieve user activity information. 
+- Added process title array to assistance step object.
+ 
+1.1.0 -- 25.09.2015
+- Added action buttons to notifications.
+- Added methods to set and get session identifiers and authorization tokens for all types of actions.
+- Added method to retrieve latest location of a user.
+
+1.0.0 -- 24.09.2015
+- Version for integration in milestone 4.
+- Added API to display popups.
